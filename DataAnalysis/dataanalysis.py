@@ -39,4 +39,3 @@ plt.show()
 print(f"Average Age: {average_age:.2f}")
 print(f"Average Income: {average_income:.2f}")
 print("Data Analysis Completed!")
-
