@@ -1,4 +1,4 @@
-Let's go through the code step by step:
+step by step code explanation:
 
 Import the Required Library: The code starts by importing the sqlite3 library, which allows Python to interact with SQLite databases.
 
