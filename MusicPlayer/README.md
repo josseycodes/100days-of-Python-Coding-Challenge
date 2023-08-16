@@ -1,0 +1,2 @@
+This is a a simplified example of a basic music player using the pygame library in Python. This example will allow you to play, pause, and skip through a single song.Before running the code, make sure you have installed the required library:pip install pygame
+This basic music player allows you to play, pause, and stop the music. To use the program, run the script and provide the file path of the music file you want to play (e.g., /path/to/your/song.mp3). The program will prompt you to choose options to pause, unpause, stop, or exit the player.
