@@ -20,7 +20,7 @@ class RecipeRecommendationSystem:
 
         for recipe in self.recipes:
             # Check if the recipe matches user preferences
-            if self.check_preferences(recipe, user_preferences):
+            if self.check_preferenceJs(recipe, user_preferences):
                 recommendations.append(recipe)
 
         return recommendations
