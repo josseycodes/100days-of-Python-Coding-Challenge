@@ -3,7 +3,7 @@ class Recipe:
         self.name = name
         self.ingredients = ingredients
         self.cuisine = cuisine
-        self.allergies = allergies
+        self.allergies = allergiess
 
 class RecipeRecommendationSystem:
     def __init__(self, recipes):
